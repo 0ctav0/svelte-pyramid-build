@@ -1,0 +1,17 @@
+[
+  ["year","january","june","december","time","day","night","morning","evening"],
+  ["school","pupil","student","professor","lession"],
+  ["trip","flare","tent","forest","river","lake"],
+  ["animal","bird","fish","wild animal","cat","dog","horse","cow","chicken","pig","goat","sheep"],
+  ["house", "castle", "tower", "town", "city", "road", "farm", "cottege", "highway"],
+  ["car", "motorbike", "bicycle", "train", "airplane", "truck"],
+  ["furniture","window","book","shelf","cupboard","bed","sofa","ceil","floor","mirrow","toilet"],
+  ["food","pie","salad","sausage","sauce","milk","meat","egg","nut"],
+  ["veggetable","tomato","potato","cucumber","pumpkin","eggplant"],
+  ["fruit","apple","banana","orange","kiwi","berry"],
+  ["warrior","archer","rider","knight","paladin","assasin","thief","rogue"],
+  ["soldier","shooter","criminal"],
+  ["private","sergant","lieutenant","captain","major","colonel","general"],
+  ["man","woman","boy","girl","guy","old man","old woman"],
+  ["father","mother","sun","daughter","grandmother","grandfather","brother","sister","nephew","uncle","aunt"]
+]
